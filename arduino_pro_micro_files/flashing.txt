@@ -1,0 +1,1 @@
+avrdude -F -V  -c usbtiny -p ATMega32U4 -b 115200 -U flash:w:/media/facelessloser/A6E4-ED97/switch_automation/animal_crossing_star/Joystick.hex:i
